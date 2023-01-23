@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "name": "laptop",
+      "price": "1000",
+      "description": "asdadad",
+      "inStock": true,
+      "id": 1
+    },
+    {
+      "name": "server",
+      "description": "Servidor web",
+      "price": "1000",
+      "inStock": true,
+      "id": 6
+    },
+    {
+      "name": "Mouse gaming",
+      "description": "razer mouse gaming",
+      "price": "300",
+      "inStock": true,
+      "id": 7
+    },
+    {
+      "name": "monitor",
+      "description": "de cuarenta pulgadas",
+      "price": "6000",
+      "inStock": true,
+      "id": 8
+    }
+  ]
+}
